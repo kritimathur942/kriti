@@ -1,2 +1,2 @@
 # kriti
-for GitHub tutorial
+for GitHub tutorial!
